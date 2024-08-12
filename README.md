@@ -16,3 +16,6 @@
 <br>
 
 <h3 align="center" >IMAGENS</h3>
+<br>
+
+<img src="https://github.com/KaiqueSouzaM/Wide-coverage-location/blob/master/Captura%20de%20Tela%20(76).png?raw=true" alt="logo-wide-coverage"/>
